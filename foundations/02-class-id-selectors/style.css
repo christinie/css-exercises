@@ -1,0 +1,20 @@
+/* styles.css */
+.coral{
+    background-color:#fc8989;
+    font-family:"Verdana",sans-serif;
+}
+
+#uno{
+    color: hsl(203, 88%, 68%);
+    font-size: 36px;
+}
+
+.big{
+    font-size:24px;
+}
+
+#dos{
+    color:rgb(54, 250, 152);
+    font-size: 24px;
+    font-weight: bold;
+}
